@@ -21,13 +21,6 @@ This project implements a **rolling backtest and forward test framework** for ev
 
 ---
 
-## 🚫 Ignore These Folders
-
-- `path/` – Internal notes or WIP paths.
-- `ignore/` – Contains other endpoints and a base for randomForestModel before this library was created for debugging etc.
-
----
-
 ## ✅ How to Use
 
 1. **Activate virtual environment and download dependencies**
