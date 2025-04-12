@@ -1,0 +1,8 @@
+# environment variable files
+.env
+
+# python cache files
+__pycache__
+
+#ignore ignore files
+ignore
