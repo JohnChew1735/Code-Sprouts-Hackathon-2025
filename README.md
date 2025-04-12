@@ -1,4 +1,4 @@
-# Balaena Quant
+# Balaena Quant (Code Sprouts)
 
 This project implements a **rolling backtest and forward test framework** for evaluating machine learning-based trading strategies using on-chain and off-chain crypto data.
 
@@ -41,5 +41,7 @@ This project implements a **rolling backtest and forward test framework** for ev
    You'll be asked to input features for the API.
    Default values are already set, so you can just press enter to use them.
 
-4. **Sit back and let the model do the work**
+4. **Let the model do the work**
    It will train on historical data, predict future movements, and show you key metrics like Sharpe Ratio, Drawdown, and Trade Frequency — along with a visual equity curve and buy/sell signals.
+
+Google drive presentation link: https://docs.google.com/presentation/d/1O6BzDCWPtDn51zeX-1uL0_crM3Q-XF8yhl7bDQAbcTM/edit?usp=sharing

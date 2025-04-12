@@ -1,4 +1,3 @@
-# fetcher/data_fetcher.py
 from src.openInterest import fetch_open_interest
 from src.addressesCount import fetch_addresses_count
 from src.priceOhlcv import fetch_price_ohlcv
@@ -22,3 +21,4 @@ class DataFetcher:
             return self.path1, self.path2, self.path3
         else:
             raise RuntimeError("❌ Failed to fetch all datasets.")
+

@@ -2,7 +2,7 @@ import pandas as pd
 import backtrader as bt
 import matplotlib.pyplot as plt
 import mplfinance as mpf
-from customPandasData import CustomPandasData
+from dataloader.customPandasData import CustomPandasData
 from strategy.randomForestStrategy import RandomForestStrategy
 
 class Backtester:
